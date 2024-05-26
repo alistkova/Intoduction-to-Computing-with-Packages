@@ -1,1 +1,1 @@
-# Modern-Packages-of-Scientific-and-Engineering-Computing
+# Intoduction to Computing with Packages
